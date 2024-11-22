@@ -91,3 +91,8 @@
     response = requests.get(encar_url, params= param, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"})
     ```
   - 잘 동작한다!
+  - 
+
+  ---
+
+  # 엔카에서 내장 시트 카테고리 기능을 제공해서 개발 중단
